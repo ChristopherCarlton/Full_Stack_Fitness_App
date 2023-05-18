@@ -6,5 +6,6 @@ https://snazzy-tarsier-9c83a1.netlify.app
 
 ## Resources Used
 
-*React
+*** 
+React
 
