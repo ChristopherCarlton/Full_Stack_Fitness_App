@@ -7,5 +7,8 @@ https://snazzy-tarsier-9c83a1.netlify.app
 ## Resources Used
 
 *** 
-React
+* React -frontend
+* Java -backend
+* MaterialUI -styling
+* Supabase -database
 
