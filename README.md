@@ -11,7 +11,7 @@ https://snazzy-tarsier-9c83a1.netlify.app
 * Java -backend
 * MaterialUI -styling
 * Supabase -database
-
+ 
  
  
 
